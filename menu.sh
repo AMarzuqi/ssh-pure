@@ -1,7 +1,7 @@
 #!/bin/bash
 #Menu
 
-clear
+neofetch
 echo -e ""
 echo -e "=============================-Menu-============================="
 echo -e "* menu         : List of Main Commands"
@@ -95,6 +95,5 @@ echo -e "* about        : Info Script Auto Install"
 echo -e "* exit         : Exit From VPS "
 echo -e ""
 echo -e "==============================================================="
-echo -e ""
 echo -e ""
 echo -e "* Modified By MR. Jukkk"
